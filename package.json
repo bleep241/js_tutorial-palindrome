@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bleep241/js_tutorial-palindrome/issues"
   },
-  "homepage": "https://github.com/bleep241/js_tutorial-palindrome#readme"
+  "homepage": "https://github.com/bleep241/js_tutorial-palindrome#readme",
+  "dependencies": {
+    "mhartl-palindrome": "^0.2.3"
+  }
 }
